@@ -1,0 +1,16 @@
+body {
+    position: absolute;
+    top: 45%;
+	left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+}
+.card-body {
+    background-color: rgb(255 255 255 / 62%);
+}
+.card-header, .card-footer {
+    background-color: rgb(191 191 191 / 67%);
+}
+#generation.btn.btn-success {
+    margin-right: 50px;
+}
